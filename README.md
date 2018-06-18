@@ -1,4 +1,8 @@
 # "HEALTH CARE RECORDS"
+***
+Esta plataforma le permite al médico, administar sus consultas y revisar el historial de sus pacientes, de una manera fácil y eficiente.
+
+![dashboard](assets/images/preview.PNG)
 
 **Presentación del reto:**
 
