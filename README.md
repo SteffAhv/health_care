@@ -16,3 +16,10 @@ El proceso de diseño, esta basado en la metología ***Design thinking***.
 
 ![img](assets/images/Design-Thinking-Graphic.png)
 
+## 1. ETAPA DE DESCUBRIMIENTO
+
+### 1.1 RESEARCH CUANTITATIVO
+
+Encuesta en línea:
+[Ver aquí](https://goo.gl/forms/zjMvCLSVRTAsMq9J2)
+
