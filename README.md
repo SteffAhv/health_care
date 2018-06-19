@@ -28,6 +28,8 @@ Encuesta en línea:
 
 
 ## 2. ETAPA DE IDEACIÓN
+### 2.1 User Person
+![imagen](https://github.com/SteffAhv/health_care/blob/master/assets/images/user_person01.jpg?raw=true)
 
 
 
