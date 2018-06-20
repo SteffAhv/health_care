@@ -2,7 +2,7 @@
 ***
 Esta plataforma le permite al médico, administar sus consultas y revisar el historial de sus pacientes, de una manera fácil y eficiente.
 
-![dashboard](assets/images/preview.PNG)
+![dashboard](assets/images/welcome.PNG)
 
 **Presentación del reto:**
 
@@ -31,7 +31,7 @@ Se encontraron algunos sitios web que ya cumplen algunas funciones respecto al m
 
 ## 2. ETAPA DE IDEACIÓN
 ### 2.1 User Person
-![imagen](https://github.com/SteffAhv/health_care/blob/master/assets/images/user_person01.jpg?raw=true)
+![imagen](https://github.com/SteffAhv/health_care/blob/master/assets/images/user_persona.jpg?raw=true)
 
 
 
