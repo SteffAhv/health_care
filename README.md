@@ -2,7 +2,7 @@
 ***
 Esta plataforma le permite al médico, administar sus consultas y revisar el historial de sus pacientes, de una manera fácil y eficiente.
 
-![dashboard](assets/images/welcome.PNG)
+![dashboard](https://github.com/SteffAhv/health_care/blob/master/assets/images/welcome.png?raw=true)
 
 **Presentación del reto:**
 
@@ -28,12 +28,14 @@ Encuesta en línea:
 
 Se encontraron algunos sitios web que ya cumplen algunas funciones respecto al manejo de historiales electronicos.
 
+![benchmarking](https://github.com/SteffAhv/health_care/blob/master/assets/images/BECNHMARK.jpg?raw=true)
 
-## 2. ETAPA DE IDEACIÓN
+## 1. ETAPA DE DEFINICIÓN
+Basandonos en la información recolectada en nuestra etapa de research, y luego de haber empatizado con las necesidades del usuario, identificamos como objetivos principales:
+
+       1. Facilitar el manejo diario de los historiales clínicos de los pacientes.
+       2. Agendar y organizar las consultas de los pacientes.
+       
+## 3. ETAPA DE IDEACIÓN
 ### 2.1 User Person
 ![imagen](https://github.com/SteffAhv/health_care/blob/master/assets/images/user_persona.jpg?raw=true)
-
-
-
-
-
