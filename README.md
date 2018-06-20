@@ -17,14 +17,16 @@ El proceso de diseño, esta basado en la metología ***Design thinking***.
 ![img](assets/images/Design-Thinking-Graphic.png)
 
 ## 1. ETAPA DE DESCUBRIMIENTO
-
-### 1.1 RESEARCH CUANTITATIVO
+### 1.1 DATOS CUANTITATIVOS
+Se realizo una encuesta para conocer  más de cerca cual es la experiencia y opinión de los médicos con el manejo de historiales y organización de citas.
 
 Encuesta en línea:
 [Ver aquí](https://goo.gl/forms/zjMvCLSVRTAsMq9J2)
 
 
 ### 1.2 BENCHMARKING
+
+Se encontraron algunos sitios web que ya cumplen algunas funciones respecto al manejo de historiales electronicos.
 
 
 ## 2. ETAPA DE IDEACIÓN
