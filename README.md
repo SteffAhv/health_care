@@ -30,7 +30,7 @@ En nuestro research encontramos estudios previos realizados que demostraban las 
 
 ![research_img](https://github.com/SteffAhv/health_care/blob/master/assets/images/research_web02.png?raw=true)
 
-[Ver fuente](http://www.informatica-medica.com/historia-clinica-en-papel-vs-historia-clinica-electronica/)
+[Ver fuente](http://www.revespcardiol.org/es/la-historia-clinica-electronica-revision/articulo/13108426/)
 
 
 ### 1.2 BENCHMARKING
