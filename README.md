@@ -33,10 +33,13 @@ Se encontraron algunos sitios web que ya cumplen algunas funciones respecto al m
 ## 2. ETAPA DE DEFINICIÓN
 
 ### POV Madlib
+
 Mediante este método articulamos un punto de vista combinando el conocimiento sobre el usuario para el que estamos diseñando, sus necesidades y las percepciones que hemos adquirido.
-![structure_pov_method](https://github.com/SteffAhv/health_care/blob/master/assets/images/point_of_view.png?raw=true)
+
+![structure-method](https://github.com/SteffAhv/health_care/blob/master/assets/images/point_of_view.png?raw=true)
 
 Es asì que llegamos a la siguiente declaración de problema accionable:
+
 ![final_pov_statement](https://github.com/SteffAhv/health_care/blob/master/assets/images/pov_method.png?raw=true)
        
 ## 3. ETAPA DE IDEACIÓN
@@ -48,5 +51,10 @@ Es asì que llegamos a la siguiente declaración de problema accionable:
 ![imagen](https://github.com/SteffAhv/health_care/blob/master/assets/images/storyboard.jpg?raw=true)
 
 ## 3. PROTOTIPADO
+Figma:
+
+[Ver aquí](https://www.figma.com/file/V7Urd71puP3hxHVwVWiScoWw/DASHBOARD)
+
 Prototipo Marvel:
+
 [Ver aquí](https://marvelapp.com/933b9he/screen/44538022)
