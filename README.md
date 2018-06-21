@@ -28,14 +28,25 @@ Encuesta en línea:
 
 Se encontraron algunos sitios web que ya cumplen algunas funciones respecto al manejo de historiales electronicos.
 
-![benchmarking](https://github.com/SteffAhv/health_care/blob/master/assets/images/BECNHMARK.jpg?raw=true)
+![benchmarking](https://github.com/SteffAhv/health_care/blob/master/assets/images/bench_map.jpg?raw=true)
 
-## 1. ETAPA DE DEFINICIÓN
-Basandonos en la información recolectada en nuestra etapa de research, y luego de haber empatizado con las necesidades del usuario, identificamos como objetivos principales:
+## 2. ETAPA DE DEFINICIÓN
 
-       1. Facilitar el manejo diario de los historiales clínicos de los pacientes.
-       2. Agendar y organizar las consultas de los pacientes.
+### POV Madlib
+Mediante este método articulamos un punto de vista combinando el conocimiento sobre el usuario para el que estamos diseñando, sus necesidades y las percepciones que hemos adquirido.
+![structure_pov_method](https://github.com/SteffAhv/health_care/blob/master/assets/images/point_of_view.png?raw=true)
+
+Es asì que llegamos a la siguiente declaración de problema accionable:
+![final_pov_statement](https://github.com/SteffAhv/health_care/blob/master/assets/images/pov_method.png?raw=true)
        
 ## 3. ETAPA DE IDEACIÓN
-### 2.1 User Person
+### 3.1 User Persona
 ![imagen](https://github.com/SteffAhv/health_care/blob/master/assets/images/user_persona.jpg?raw=true)
+
+### 3.1 User Persona
+
+![imagen](https://github.com/SteffAhv/health_care/blob/master/assets/images/storyboard.jpg?raw=true)
+
+## 3. PROTOTIPADO
+Prototipo Marvel:
+[Ver aquí](https://marvelapp.com/933b9he/screen/44538022)
