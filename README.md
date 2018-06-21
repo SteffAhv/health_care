@@ -30,7 +30,7 @@ En nuestro research encontramos estudios previos realizados que demostraban las 
 
 ![research_img](https://github.com/SteffAhv/health_care/blob/master/assets/images/research_web02.png?raw=true)
 
-[Ver fuente](http://www.revespcardiol.org/es/la-historia-clinica-electronica-revision/articulo/13108426/)
+[Ver fuente](http://www.biocom.com/sistema/historias_clinicas/historia_clinica_informatica.html)
 
 
 ### 1.2 BENCHMARKING
